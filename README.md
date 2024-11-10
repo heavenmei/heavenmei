@@ -11,9 +11,9 @@ My name is Heavenmei and I'm a software developer/Font-end engineer. You can fin
 
 
 ## Stats
-<p style="display:flex; gap:4px; width:100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=heavenmei&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="heavenmei" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heavenmei&theme=material-palenight&hide_border=false" alt="heavenmei" />
+<p>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=heavenmei&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="heavenmei" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=heavenmei&theme=material-palenight&hide_border=false" alt="heavenmei" />
 </p>
 
 
