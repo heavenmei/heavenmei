@@ -7,7 +7,11 @@
   <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=heavenmei&show_icons=true&include_all_commits=true&theme=material-palenight)" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heavenmei)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **heavenmei/heavenmei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
