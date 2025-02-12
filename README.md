@@ -23,13 +23,13 @@ My name is Heavenmei and I'm a software developer/Font-end engineer. You can fin
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 42 mins
+Total Time: 11 hrs 12 mins
 
-JavaScript    2 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.21 %
-Other         1 hr 52 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-Image (svg)   57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-TypeScript    53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-JSON          27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+JavaScript    6 hrs 6 mins    ███████████▒░░░░░░░░░░░░░   44.81 %
+Other         2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+TypeScript    1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Image (svg)   57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+JSON          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
