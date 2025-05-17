@@ -26,7 +26,7 @@ My name is Heavenmei and I'm a software developer/Font-end engineer. You can fin
 Total Time: 8 hrs 54 mins
 
 TypeScript   4 hrs 33 mins   ████████████▓░░░░░░░░░░░░   51.22 %
-Python       2 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.21 %
+Python       2 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
 SCSS         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
 Text         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
