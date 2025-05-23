@@ -23,11 +23,9 @@ My name is Heavenmei and I'm a software developer/Font-end engineer. You can fin
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 mins
+Total Time: 0 secs
 
-Bash         9 mins          █████████████▒░░░░░░░░░░░   53.45 %
-JSON         8 mins          ███████████▒░░░░░░░░░░░░░   44.91 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
