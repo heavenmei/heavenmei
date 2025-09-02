@@ -1,7 +1,7 @@
 ## Hi👋 I'm Heavenmei
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=heavenmei&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="heavenmei" />
 
-My name is Heavenmei and I'm a software developer/Font-end engineer. You can find me on my cite [heavenmei.io](https://heavenmei.github.io/)
+My name is Heavenmei and I'm a software developer/Front-end engineer. You can find me on my cite [heavenmei.io](https://heavenmei.github.io/)
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=heavenmei.heavenmei)](https://visitor-badge.laobi.icu/badge?page_id=heavenmei.heavenmei)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:heavenmei.huang@gmail.com)](mailto:heavenmei.huang@gmail.com)
