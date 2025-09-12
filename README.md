@@ -23,11 +23,11 @@ My name is Heavenmei and I'm a software developer/Front-end engineer. You can fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 3 mins
+Total Time: 2 hrs 39 mins
 
-JavaScript   1 hr 48 mins    ███████████░░░░░░░░░░░░░░   44.64 %
-CSS          1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   27.98 %
-HTML         1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 %
+CSS          1 hr 7 mins     ██████████▓░░░░░░░░░░░░░░   42.30 %
+HTML         50 mins         ████████░░░░░░░░░░░░░░░░░   31.45 %
+JavaScript   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
 ```
 
 <!--END_SECTION:waka-->
