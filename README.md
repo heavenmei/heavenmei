@@ -23,9 +23,9 @@ My name is Heavenmei and I'm a software developer/Front-end engineer. You can fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 17 mins
 
-Image (svg)   3 mins          █████████████████████████   100.00 %
+Image (svg)   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
