@@ -23,9 +23,11 @@ My name is Heavenmei and I'm a software developer/Front-end engineer. You can fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 mins
+Total Time: 2 hrs 43 mins
 
-Python   24 mins               █████████████████████████   100.00 %
+Image (svg)   2 hrs 18 mins         █████████████████████░░░░   84.63 %
+Python        24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
