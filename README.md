@@ -25,8 +25,7 @@ My name is Heavenmei and I'm a software developer/Front-end engineer. You can fi
 ```txt
 Total Time: 0 secs
 
-TypeScript   0 secs                ███████████████████████▓░   95.10 %
-CSV          0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
