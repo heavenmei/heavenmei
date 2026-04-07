@@ -23,11 +23,11 @@ My name is Heavenmei and I'm a software developer/Front-end engineer. You can fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 4 mins
+Total Time: 49 mins
 
-Typst        57 mins               ██████████████████████▒░░   89.21 %
-Bash         6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-SSH Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Typst        42 mins               █████████████████████▒░░░   85.87 %
+Bash         6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+SSH Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
