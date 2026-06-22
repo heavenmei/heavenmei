@@ -23,10 +23,10 @@ My name is Heavenmei and I'm a software developer/Front-end engineer. You can fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 28 mins
+Total Time: 2 hrs 8 mins
 
-Typst   1 hr 28 mins          █████████████████████████   99.98 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Typst   2 hrs 8 mins          █████████████████████████   99.99 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
